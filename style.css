@@ -8,7 +8,7 @@ body {
       background-attachment: fixed;
       font-family:helvetica neue,san-serif;
       text-align:center;
-      background:#f9f9f9;
+      
 }
 #grid,.box{
   -webkit-user-select:none;
