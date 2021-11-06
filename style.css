@@ -1,7 +1,14 @@
 body {
-  font-family:helvetica neue,san-serif;
-  text-align:center;
-  background:#f9f9f9;
+      margin:0;
+      padding:0;
+      background-image: url("bg.jpg"); 
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      font-family:helvetica neue,san-serif;
+      text-align:center;
+      background:#f9f9f9;
 }
 #grid,.box{
   -webkit-user-select:none;
