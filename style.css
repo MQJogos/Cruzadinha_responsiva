@@ -17,7 +17,7 @@ body {
   margin:20px auto;
   max-width:720px;
 }
-#grid {
+#grid /* = container*/{
   margin:20px auto 40px;
   box-shadow:0 0 20px rgba(0,0,0,0.2);
   width:410px;
@@ -45,14 +45,14 @@ body {
     border-radius:5px;
   }
 }
-.box {
+.box /* = hint*/{
   margin:3px;
   width:45px;
   height:45px;
   line-height:45px;
   text-align:center;
   background:#fff;
-  box-shadow:0 0 5px rgba(0,0,0,0.1);
+  box-shadow:0 0 5px margin: 20px auto 40px;;
   border-radius:5px;
   float:left;
 }
